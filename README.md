@@ -4,7 +4,7 @@
 
 ## 1. Download the Repo or clone
 
-```sh
+```bash
 git clone git@github.com:Taleemj/organize-script.git
 ```
 
@@ -20,6 +20,6 @@ const downloadsFolder = "../../Downloads"; // path to my downloads from current 
 
 Open the terminal in vs code using the shortcut ctrl and `. Then run this command.
 
-```sh
+```bash
 node index.js
 ```
